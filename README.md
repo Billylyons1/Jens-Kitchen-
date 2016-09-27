@@ -1,2 +1,1 @@
-  <li><a href="recipes/tapenade.html">Tapenade (Olive Spread)</li></a>
-<li><a href="pasta/linguine.html">Linguine with Clam Sauce</li></a>
+<p><a href="../index.html"[Back to the home page]</p></a>
